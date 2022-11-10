@@ -7,8 +7,9 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. mport the required packages.
+## Algorithm:
+
+1.mport the required packages.
 
 2.Import the dataset to work on.
 
@@ -68,6 +69,7 @@ plt.title("Customer Segments")
 ## Output:
 
 ![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/eb3b99f4632c3458594a6a64e520d01450504e9b/WhatsApp%20Image%202022-11-10%20at%2009.08.20.jpg)
+
 ![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/ed74452dd0715567bcd0e826f323734802c24c70/WhatsApp%20Image%202022-11-10%20at%2009.13.34.jpg)
 
 ![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/3944e23c74d113844e64bb58cb61f1f2a2ec2f18/WhatsApp%20Image%202022-11-10%20at%2009.16.12.jpg)
@@ -78,6 +80,7 @@ plt.title("Customer Segments")
 
 ![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/1a72de3d0c5dcc43ce29bae76e5352409d51e02b/WhatsApp%20Image%202022-11-10%20at%2009.22.44.jpg)
 
+![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/d4a61d3467b8693b992ed0030d7f9ce7e50a70a2/WhatsApp%20Image%202022-11-10%20at%2009.26.51.jpg)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
