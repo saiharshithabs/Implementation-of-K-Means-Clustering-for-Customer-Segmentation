@@ -63,6 +63,8 @@ plt.title("Customer Segments")
 
 ![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/3944e23c74d113844e64bb58cb61f1f2a2ec2f18/WhatsApp%20Image%202022-11-10%20at%2009.16.12.jpg)
 
+![image](https://github.com/saiharshithabs/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/8d604b4bbcf6b8bda84a6532d4983341efe4894c/WhatsApp%20Image%202022-11-10%20at%2009.18.04.jpg)
+
 
 
 ## Result:
