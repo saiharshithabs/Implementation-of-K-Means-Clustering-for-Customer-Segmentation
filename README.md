@@ -67,8 +67,12 @@ plt.title("customer segments")
 
 ## Output:
 ![exp 8 1](https://user-images.githubusercontent.com/114275126/204444936-5fcb3bff-3834-4689-a3fe-3beb2258692a.PNG)
-
-
+![8 2](https://user-images.githubusercontent.com/114275126/204450727-0abde376-1175-4eec-861d-51e6e0d66402.PNG)
+![8 3](https://user-images.githubusercontent.com/114275126/204450756-e83df710-c358-4c8e-b089-a498da99a12f.PNG)
+![8 4](https://user-images.githubusercontent.com/114275126/204450802-61b4453c-f4e9-4780-ae09-7642fb6a2725.PNG)
+![8 5](https://user-images.githubusercontent.com/114275126/204450830-c3a3bb56-11c7-462a-8f75-945ec775d26e.PNG)
+![8 7](https://user-images.githubusercontent.com/114275126/204451193-c7713bac-ffc7-4724-90f1-6d7ad16559e5.PNG)
+![8 8](https://user-images.githubusercontent.com/114275126/204451197-72a05385-13be-4c36-871a-e6b36e01e6c8.PNG)
 
 
 ## Result:
